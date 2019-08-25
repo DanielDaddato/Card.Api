@@ -1,0 +1,14 @@
+D:\Source\Repos\Card.Api\Card.Api\bin\Release\netcoreapp2.2\Card.Api.deps.json
+D:\Source\Repos\Card.Api\Card.Api\bin\Release\netcoreapp2.2\Card.Api.runtimeconfig.json
+D:\Source\Repos\Card.Api\Card.Api\bin\Release\netcoreapp2.2\Card.Api.runtimeconfig.dev.json
+D:\Source\Repos\Card.Api\Card.Api\bin\Release\netcoreapp2.2\Card.Api.dll
+D:\Source\Repos\Card.Api\Card.Api\bin\Release\netcoreapp2.2\Card.Api.pdb
+D:\Source\Repos\Card.Api\Card.Api\obj\Release\netcoreapp2.2\Card.Api.csprojAssemblyReference.cache
+D:\Source\Repos\Card.Api\Card.Api\obj\Release\netcoreapp2.2\Card.Api.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Card.Api\Card.Api\obj\Release\netcoreapp2.2\Card.Api.RazorAssemblyInfo.cache
+D:\Source\Repos\Card.Api\Card.Api\obj\Release\netcoreapp2.2\Card.Api.RazorAssemblyInfo.cs
+D:\Source\Repos\Card.Api\Card.Api\obj\Release\netcoreapp2.2\Card.Api.AssemblyInfoInputs.cache
+D:\Source\Repos\Card.Api\Card.Api\obj\Release\netcoreapp2.2\Card.Api.AssemblyInfo.cs
+D:\Source\Repos\Card.Api\Card.Api\obj\Release\netcoreapp2.2\Card.Api.RazorTargetAssemblyInfo.cache
+D:\Source\Repos\Card.Api\Card.Api\obj\Release\netcoreapp2.2\Card.Api.dll
+D:\Source\Repos\Card.Api\Card.Api\obj\Release\netcoreapp2.2\Card.Api.pdb
